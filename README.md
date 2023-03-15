@@ -4,4 +4,5 @@
 ### 기술스택
 - next.js
 - styled-components
+- typescript
 - ...
